@@ -1,4 +1,5 @@
-package com.linkedlist;
+package com.linkedlist.studentrecord;
+
 //create a class here
 public class StudentManagementSystem {
   //set the private fields head and tail

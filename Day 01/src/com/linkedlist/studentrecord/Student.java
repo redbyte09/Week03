@@ -1,4 +1,4 @@
-package com.linkedlist;
+package com.linkedlist.studentrecord;
 
 public class Student {
 
